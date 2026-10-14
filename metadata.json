@@ -1,0 +1,6 @@
+{
+  "name": "Daily Life Keeper",
+  "description": "Daily Life Keeper - all-in-one daily life management app with prayer times, reminders, expenses, habits, and vehicle maintenance",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
